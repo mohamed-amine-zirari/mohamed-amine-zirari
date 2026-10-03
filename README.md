@@ -2,7 +2,7 @@
 
 # Mohamed Amine Zirari
 
-AI Engineering Student
+AI & digital Engineering Student
 
 I build practical applications using Python, data, APIs, and AI technologies.
 
