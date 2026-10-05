@@ -1,6 +1,4 @@
-## Hi 👋 , I'm Mohamed Amine
-
-# Mohamed Amine Zirari
+# Hi 👋 , I'm Mohamed Amine Zirari
 
 AI & digital Engineering Student
 
